@@ -12,3 +12,6 @@
 ➡️➡️
 These commands are fundamental for managing your codebase, collaborating with others, and keeping track of changes. Mastering them will significantly enhance your productivity and efficiency in software development projects.
 ➡️➡️
+
+➡️ git stash:  when you want to record the current state of the working directory and the index, but want to go back to a clean working directory. The command saves your local 
+  modifications away and reverts the working directory to match the HEAD commit.
