@@ -15,3 +15,5 @@ These commands are fundamental for managing your codebase, collaborating with ot
 
 ➡️ git stash:  when you want to record the current state of the working directory and the index, but want to go back to a clean working directory. The command saves your local 
   modifications away and reverts the working directory to match the HEAD commit.
+➡️ git tag: Create, list, delete, or verify a tag object signed with GPG Add a tag reference in refs/tags/, unless -d/-l/-v is given to delete, list, or verify tags.
+Unless -f is given, the named tag must not yet exist.
