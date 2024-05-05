@@ -17,3 +17,4 @@ These commands are fundamental for managing your codebase, collaborating with ot
   modifications away and reverts the working directory to match the HEAD commit.
 ➡️ git tag: Create, list, delete, or verify a tag object signed with GPG Add a tag reference in refs/tags/, unless -d/-l/-v is given to delete, list, or verify tags.
 Unless -f is given, the named tag must not yet exist.
+➡️ The git commit --amend: command is a convenient way to modify the most recent commit. It lets you combine staged changes with the previous commit instead of creating an entirely new commit.
